@@ -2,9 +2,10 @@
 
 ## Goals
 
-- Create forms on the frontend that can be POSTed to a spreadsheet somewhere
-- Every time a new form is successfully posted, send an email alert
-- Optionally, support mutliple forms that can be spawned by user choice
+- [Create forms on the frontend that can be POSTed to a spreadsheet somewhere](https://github.com/AndrewCarlile/finalproject/issues/1)
+- [When form is posted, add to spreadsheet](https://github.com/AndrewCarlile/finalproject/issues/2)
+- [Every time a new form is successfully posted, send an email alert](https://github.com/AndrewCarlile/finalproject/issues/3)
+- [Optionally, support mutliple forms that can be spawned by user choice](https://github.com/AndrewCarlile/finalproject/issues/4)
 
 ## Services Used
 
